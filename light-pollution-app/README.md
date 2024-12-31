@@ -1,0 +1,1 @@
+Learning REACT with an app that displays light pollution at your location, in a user friendly way.
